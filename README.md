@@ -1,2 +1,2 @@
 # hello-world
-Kristian told me to do diz waiii
+Going through the Github tutorial, for the first time
